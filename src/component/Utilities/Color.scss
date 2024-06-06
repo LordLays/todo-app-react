@@ -1,0 +1,112 @@
+$primary: #4e73df;
+$secondary: #6c757d;
+$success: #1cc88a;
+$info: #36b9cc;
+$warning: #f6c23e;
+$danger: #e74a3b;
+$light: #f8f9fa;
+$dark: #343a40;
+
+.text-gray-100 {
+  color: #f8f9fa !important;
+}
+
+.text-gray-200 {
+  color: #e9ecef !important;
+}
+
+.text-gray-300 {
+  color: #dee2e6 !important;
+}
+
+.text-gray-400 {
+  color: #ced4da !important;
+}
+
+.text-gray-500 {
+  color: #adb5bd !important;
+}
+
+.text-gray-600 {
+  color: #6c757d !important;
+}
+
+.text-gray-700 {
+  color: #495057 !important;
+}
+
+.text-gray-800 {
+  color: #343a40 !important;
+}
+
+.text-gray-900 {
+  color: #212529 !important;
+}
+
+.bg-gradient-primary {
+  background: linear-gradient(180deg, $primary 10%, darken($primary, 15%) 100%) !important;
+}
+
+.bg-gradient-secondary {
+  background: linear-gradient(180deg, $secondary 10%, darken($secondary, 15%) 100%) !important;
+}
+
+.bg-gradient-success {
+  background: linear-gradient(180deg, $success 10%, darken($success, 15%) 100%) !important;
+}
+
+.bg-gradient-info {
+  background: linear-gradient(180deg, $info 10%, darken($info, 15%) 100%) !important;
+}
+
+.bg-gradient-warning {
+  background: linear-gradient(180deg, $warning 10%, darken($warning, 15%) 100%) !important;
+}
+
+.bg-gradient-danger {
+  background: linear-gradient(180deg, $danger 10%, darken($danger, 15%) 100%) !important;
+}
+
+.bg-gradient-light {
+  background: linear-gradient(180deg, $light 10%, darken($light, 15%) 100%) !important;
+}
+
+.bg-gradient-dark {
+  background: linear-gradient(180deg, $dark 10%, darken($dark, 15%) 100%) !important;
+}
+
+.bg-gray-100 {
+  background-color: #f8f9fa !important;
+}
+
+.bg-gray-200 {
+  background-color: #e9ecef !important;
+}
+
+.bg-gray-300 {
+  background-color: #dee2e6 !important;
+}
+
+.bg-gray-400 {
+  background-color: #ced4da !important;
+}
+
+.bg-gray-500 {
+  background-color: #adb5bd !important;
+}
+
+.bg-gray-600 {
+  background-color: #6c757d !important;
+}
+
+.bg-gray-700 {
+  background-color: #495057 !important;
+}
+
+.bg-gray-800 {
+  background-color: #343a40 !important;
+}
+
+.bg-gray-900 {
+  background-color: #212529 !important;
+}
